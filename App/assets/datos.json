@@ -1,0 +1,548 @@
+[
+  {
+    "temporada":1,
+    "episodio":1,
+    "nombre":"Que desastre",
+    "link":"http://youtu.be/edHAcbq1uU0"
+  },
+  {
+    "temporada":1,
+    "episodio":2,
+    "nombre":"Pasión enana",
+    "link":"http://youtu.be/rpUTNoqWimY"
+  },
+  {
+    "temporada":1,
+    "episodio":3,
+    "nombre":"Reinadocracia: qué desgracia parte 1",
+    "link":"http://youtu.be/Zq73PdcSKb8"
+  },
+  {
+    "temporada":1,
+    "episodio":4,
+    "nombre":"Reinadocracia: qué desgracia parte 2",
+    "link":"http://youtu.be/ROtNtW2hrHI"
+  },
+  {
+    "temporada":1,
+    "episodio":5,
+    "nombre":"La radio: un mundo de ideotas",
+    "link":"http://youtu.be/gsPxnouCW0w"
+  },
+  {
+    "temporada":1,
+    "episodio":6,
+    "nombre":"Iguazomanía parte 1",
+    "link":"http://youtu.be/pN_t7rsmUAs"
+  },
+  {
+    "temporada":1,
+    "episodio":7,
+    "nombre":"Iguazomanía parte 2",
+    "link":"http://youtu.be/c25W51Koq_M"
+  },
+  {
+    "temporada":1,
+    "episodio":8,
+    "nombre":"Infeliz navidad",
+    "link":"http://youtu.be/G_l9oSec4oE"
+  },
+  {
+    "temporada":1,
+    "episodio":9,
+    "nombre":"New York New York parte 1",
+    "link":"http://youtu.be/dM2lDvTp_wA"
+  },
+  {
+    "temporada":1,
+    "episodio":10,
+    "nombre":"New York New York parte 2",
+    "link":"http://youtu.be/i-qPmR2UBTU"
+  },
+  {
+    "temporada":1,
+    "episodio":11,
+    "nombre":"Por que somos así",
+    "link":"http://youtu.be/VsmeWPJ1MYM"
+  },
+  {
+    "temporada":1,
+    "episodio":12,
+    "nombre":"Por una cabeza",
+    "link":"http://youtu.be/TzuW_oMVBeY"
+  },
+  {
+    "temporada":1,
+    "episodio":13,
+    "nombre":"El poder para qué parte 1",
+    "link":"http://youtu.be/pSJauMAaqck"
+  },
+  {
+    "temporada":1,
+    "episodio":14,
+    "nombre":"El poder para qué parte 2",
+    "link":"http://youtu.be/cwxy5YUCPpY"
+  },
+  {
+    "temporada":1,
+    "episodio":15,
+    "nombre":"Doña anciana decrépita",
+    "link":"http://youtu.be/-QdaBfSw2C0"
+  },
+  {
+    "temporada":1,
+    "episodio":16,
+    "nombre":"Ceguera cucuteña",
+    "link":"http://youtu.be/Ho10dJw1nUw"
+  },
+  {
+    "temporada":1,
+    "episodio":17,
+    "nombre":"Picaro de Bribón",
+    "link":"http://youtu.be/6fOpI-WESNk"
+  },
+  {
+    "temporada":1,
+    "episodio":18,
+    "nombre":"Futuro extra-ordinario",
+    "link":"http://youtu.be/W__9wJD9df4"
+  },
+  {
+    "temporada":1,
+    "episodio":19,
+    "nombre":"El mundo light",
+    "link":"http://youtu.be/1wxp5BgTpMo"
+  },
+  {
+    "temporada":1,
+    "episodio":20,
+    "nombre":"En directo con Jaime Gayly parte 1",
+    "link":"http://youtu.be/ZdT6upVaHf8"
+  },
+  {
+    "temporada":1,
+    "episodio":21,
+    "nombre":"En directo con Jaime Gayly parte 2",
+    "link":"http://youtu.be/odDw1sBA_oU"
+  },
+  {
+    "temporada":1,
+    "episodio":22,
+    "nombre":"Saldo en rojo",
+    "link":"http://youtu.be/j8PnaLbrUNs"
+  },
+  {
+    "temporada":1,
+    "episodio":23,
+    "nombre":"Blas de Lezo tuvo la culpa",
+    "link":"http://youtu.be/BcG2Z-PGAm0"
+  },
+  {
+    "temporada":1,
+    "episodio":24,
+    "nombre":"El campo santo",
+    "link":"http://youtu.be/9y0ZWq5v8Pk"
+  },
+  {
+    "temporada":1,
+    "episodio":25,
+    "nombre":"Fracasamos otra vez... rotundamente",
+    "link":"http://youtu.be/VLJ-JfKWMZ8"
+  },
+  {
+    "temporada":1,
+    "episodio":26,
+    "nombre":"El conde Cerdo Moulin",
+    "link":"http://youtu.be/C1gsjtzKOM4"
+  },
+  {
+    "temporada":2,
+    "episodio":1,
+    "nombre":"Indiferendo Fronterizo Parte 1",
+    "link":"http://youtu.be/Gs28YsLZ0FY"
+  },
+  {
+    "temporada":2,
+    "episodio":2,
+    "nombre":"Indiferendo Fronterizo Parte 2",
+    "link":"http://youtu.be/EkEcbU4EKlA"
+  },
+  {
+    "temporada":2,
+    "episodio":3,
+    "nombre":"El caso Cotes",
+    "link":"http://youtu.be/jt1ustcXtL4"
+  },
+  {
+    "temporada":2,
+    "episodio":4,
+    "nombre":"Estamos en la Olla Podrida",
+    "link":"http://youtu.be/LRp_zLGzC28"
+  },
+  {
+    "temporada":2,
+    "episodio":5,
+    "nombre":"Descaro Olímpico",
+    "link":"http://youtu.be/NBnexxmziew"
+  },
+  {
+    "temporada":2,
+    "episodio":6,
+    "nombre":"Cursillo de Historia Chibchombiana Parte 1",
+    "link":"http://youtu.be/9wtUBA_cBzA"
+  },
+  {
+    "temporada":2,
+    "episodio":7,
+    "nombre":"Cursillo de Historia Chibchombiana Parte 2",
+    "link":"http://youtu.be/lIw3KVu4uAk"
+  },
+  {
+    "temporada":2,
+    "episodio":8,
+    "nombre":"¿Qué el presidente Clinton va a renunciar? ¡mamola! Parte 1",
+    "link":"http://youtu.be/s-HV1u2tzpk"
+  },
+  {
+    "temporada":2,
+    "episodio":9,
+    "nombre":"¿Qué el presidente Clinton va a renunciar? ¡mamola! Parte 2",
+    "link":"http://youtu.be/Bsq7ZHf8DbY"
+  },
+  {
+    "temporada":2,
+    "episodio":10,
+    "nombre":"La policía creativa Parte 1",
+    "link":"http://youtu.be/r7zkU5M903g"
+  },
+  {
+    "temporada":2,
+    "episodio":11,
+    "nombre":"La policía creativa Parte 2",
+    "link":"http://youtu.be/QjMfNEUk7vg"
+  },
+  {
+    "temporada":2,
+    "episodio":12,
+    "nombre":"La Decrepition",
+    "link":"http://youtu.be/opiHqoVWoRI"
+  },
+  {
+    "temporada":2,
+    "episodio":13,
+    "nombre":"Inmerecido descanso",
+    "link":"http://youtu.be/Dx3mJsES-74"
+  },
+  {
+    "temporada":2,
+    "episodio":14,
+    "nombre":"El despejote Parte 1",
+    "link":"http://youtu.be/PZ-BxDxgTa4"
+  },
+  {
+    "temporada":2,
+    "episodio":15,
+    "nombre":"El despejote Parte 2",
+    "link":"http://youtu.be/4wGVvm6vDks"
+  },
+  {
+    "temporada":2,
+    "episodio":16,
+    "nombre":"El despejote Parte 3",
+    "link":"http://youtu.be/zvByXTZwLPQ"
+  },
+  {
+    "temporada":2,
+    "episodio":17,
+    "nombre":"Fantasías desanimadas de ayer y hoy Parte 1",
+    "link":"http://youtu.be/0Xv-eVh7sb0"
+  },
+  {
+    "temporada":2,
+    "episodio":18,
+    "nombre":"Fantasías desanimadas de ayer y hoy Parte 2",
+    "link":"http://youtu.be/wfFXwX5v_1c"
+  },
+  {
+    "temporada":2,
+    "episodio":19,
+    "nombre":"Iguazolandia Parte 1",
+    "link":"http://youtu.be/UYsck65zdJo"
+  },
+  {
+    "temporada":2,
+    "episodio":20,
+    "nombre":"Iguazolandia Parte 2",
+    "link":"http://youtu.be/_S1j1r2NmFU"
+  },
+  {
+    "temporada":2,
+    "episodio":21,
+    "nombre":"Iguazolandia Parte 3",
+    "link":"http://youtu.be/HIe1OfsJE-c"
+  },
+  {
+    "temporada":2,
+    "episodio":22,
+    "nombre":"La irreverencia",
+    "link":"http://youtu.be/kmkxMjTeiM8"
+  },
+  {
+    "temporada":3,
+    "episodio":1,
+    "nombre":"Al mal tiempo mala cara parte 1",
+    "link":"youtu.be/VFnGze1kn_0"
+  },
+  {
+    "temporada":3,
+    "episodio":2,
+    "nombre":"Al mal tiempo mala cara parte 2",
+    "link":"http://youtu.be/6dMQw4bZ-Rs"
+  },
+  {
+    "temporada":3,
+    "episodio":3,
+    "nombre":"Los premios alboider parte 1",
+    "link":"http://youtu.be/dVG9xHe13uE"
+  },
+  {
+    "temporada":3,
+    "episodio":4,
+    "nombre":"Los premios alboider parte 2",
+    "link":"http://youtu.be/wCATom_myV0"
+  },
+  {
+    "temporada":3,
+    "episodio":5,
+    "nombre":"Soluciones parte 1",
+    "link":"http://youtu.be/11wKc_o1FHw"
+  },
+  {
+    "temporada":3,
+    "episodio":6,
+    "nombre":"Soluciones parte 2",
+    "link":"http://youtu.be/d3GWeBgIQhg"
+  },
+  {
+    "temporada":3,
+    "episodio":7,
+    "nombre":"El éxodo parte 1",
+    "link":"http://youtu.be/u06-Zpp4s_U"
+  },
+  {
+    "temporada":3,
+    "episodio":8,
+    "nombre":"El éxodo parte 2",
+    "link":"http://youtu.be/_TmAoyXFQBo"
+  },
+  {
+    "temporada":3,
+    "episodio":9,
+    "nombre":"Tv or not tv",
+    "link":"http://youtu.be/p0RolrsMR4g"
+  },
+  {
+    "temporada":3,
+    "episodio":10,
+    "nombre":"La subienda parte 1",
+    "link":"http://youtu.be/Lst-jVvPWzU"
+  },
+  {
+    "temporada":3,
+    "episodio":11,
+    "nombre":"La subienda parte 2",
+    "link":"http://youtu.be/Was0lic4Ggo"
+  },
+  {
+    "temporada":3,
+    "episodio":12,
+    "nombre":"El rebaño de la certeza parte 1",
+    "link":"http://youtu.be/eM32opE7rCY"
+  },
+  {
+    "temporada":3,
+    "episodio":13,
+    "nombre":"El rebaño de la certeza parte 2",
+    "link":"http://youtu.be/aTjqXB27z60"
+  },
+  {
+    "temporada":3,
+    "episodio":14,
+    "nombre":"El concurso",
+    "link":"http://youtu.be/TiVIVx8ZUmI"
+  },
+  {
+    "temporada":3,
+    "episodio":15,
+    "nombre":"La devoradora de Bora Bora parte 1",
+    "link":"http://youtu.be/bFJs2dHESWw"
+  },
+  {
+    "temporada":3,
+    "episodio":16,
+    "nombre":"La devoradora de Bora Bora parte 2",
+    "link":"http://youtu.be/Plxj2_EmSlk"
+  },
+  {
+    "temporada":3,
+    "episodio":17,
+    "nombre":"La guandoca parte 1",
+    "link":"http://youtu.be/agh5bZDfK8c"
+  },
+  {
+    "temporada":3,
+    "episodio":18,
+    "nombre":"La guandoca parte 2",
+    "link":"http://youtu.be/bSCdk2Oxp5o"
+  },
+  {
+    "temporada":3,
+    "episodio":19,
+    "nombre":"Santiago de Francisco",
+    "link":"http://youtu.be/hgRgOcCa0GI"
+  },
+  {
+    "temporada":3,
+    "episodio":20,
+    "nombre":"Politícamente incorrectos",
+    "link":"http://youtu.be/lFOgZGCE-rg"
+  },
+  {
+    "temporada":3,
+    "episodio":21,
+    "nombre":"Chibchombia ano 2000",
+    "link":"http://youtu.be/AcQvBh6gcSA"
+  },
+  {
+    "temporada":3,
+    "episodio":22,
+    "nombre":"El campo Clud",
+    "link":"http://youtu.be/8S5ZS03jp00"
+  },
+  {
+    "temporada":4,
+    "episodio":1,
+    "nombre":"El Crimen Organizado Y Civilizado Parte 1",
+    "link":"http://youtu.be/aitBOWrOon4"
+  },
+  {
+    "temporada":4,
+    "episodio":2,
+    "nombre":"El Crimen Organizado Y Civilizado Parte 2",
+    "link":"http://youtu.be/TyvnoG436jQ"
+  },
+  {
+    "temporada":4,
+    "episodio":3,
+    "nombre":"El Plan Chibchombia Parte 1",
+    "link":"http://youtu.be/vFYsJxW0mjY"
+  },
+  {
+    "temporada":4,
+    "episodio":4,
+    "nombre":"El Plan Chibchombia Parte 2",
+    "link":"http://youtu.be/tDdAVNNlaWg"
+  },
+  {
+    "temporada":4,
+    "episodio":5,
+    "nombre":"El Apagón Parte 1",
+    "link":"http://youtu.be/r1xUHI57pgo"
+  },
+  {
+    "temporada":4,
+    "episodio":6,
+    "nombre":"El Apagón Parte 2",
+    "link":"http://youtu.be/7IHCmeDT2sg"
+  },
+  {
+    "temporada":4,
+    "episodio":7,
+    "nombre":"Caconia",
+    "link":"http://youtu.be/vHGAfYW5Bec"
+  },
+  {
+    "temporada":4,
+    "episodio":8,
+    "nombre":"La 002 Parte 1",
+    "link":"http://youtu.be/1DPDNTUYF4w"
+  },
+  {
+    "temporada":4,
+    "episodio":9,
+    "nombre":"La 002 Parte 2",
+    "link":"http://youtu.be/mxDTfBr9NA0"
+  },
+  {
+    "temporada":4,
+    "episodio":10,
+    "nombre":"Iguassic Park",
+    "link":"http://youtu.be/-JclYmFouvk"
+  },
+  {
+    "temporada":4,
+    "episodio":11,
+    "nombre":"De La Olla Al Hueco Parte 1",
+    "link":"http://youtu.be/iOQ9xXt0fuI"
+  },
+  {
+    "temporada":4,
+    "episodio":12,
+    "nombre":"De La Olla Al Hueco Parte 2",
+    "link":"http://youtu.be/8USpC0N423c"
+  },
+  {
+    "temporada":4,
+    "episodio":13,
+    "nombre":"El Paseo Parte 1",
+    "link":"http://youtu.be/DOypgARbw5k"
+  },
+  {
+    "temporada":4,
+    "episodio":14,
+    "nombre":"El Paseo Parte 2",
+    "link":"http://youtu.be/xEnrc_yBbOc"
+  },
+  {
+    "temporada":4,
+    "episodio":15,
+    "nombre":"Noticaca Parte 1",
+    "link":"http://youtu.be/b31BrfZ7ZzM"
+  },
+  {
+    "temporada":4,
+    "episodio":16,
+    "nombre":"Noticaca Parte 2",
+    "link":"http://youtu.be/fTsPzVdn0aI"
+  },
+  {
+    "temporada":4,
+    "episodio":17,
+    "nombre":"Me Voy Pa'l Pueblo",
+    "link":"http://youtu.be/IhlnF8p6wiA"
+  },
+  {
+    "temporada":4,
+    "episodio":18,
+    "nombre":"La Farándula Parte 1",
+    "link":"http://youtu.be/-aAqnvGYOuc"
+  },
+  {
+    "temporada":4,
+    "episodio":19,
+    "nombre":"La Farándula Parte 2",
+    "link":"http://youtu.be/7OZ54tx8Iyw"
+  },
+  {
+    "temporada":4,
+    "episodio":20,
+    "nombre":"El País Se Derrumba Y Nosotros De Rumba",
+    "link":"http://youtu.be/m-YlxMx2OVc"
+  },
+  {
+    "temporada":4,
+    "episodio":21,
+    "nombre":"La Ciudad Boba",
+    "link":"http://youtu.be/_RKJYnJMJMs"
+  }
+]

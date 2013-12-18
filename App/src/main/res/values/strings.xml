@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">ElSiguientePrograma</string>
+  <string name="temporada_x">Temporada %s</string>
+  <string name="ir_al_la_web">Página web</string>
+  <string name="error_player">Error iniciando el reproductor (%1$s)</string>
+</resources>
